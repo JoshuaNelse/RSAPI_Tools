@@ -2,7 +2,7 @@ const proxyurl = "https://sheltered-dawn-97733.herokuapp.com/"; // to bypass COR
 const DIVINE_CHARGE_ITEM_ID = 36390;
 const EMPTY_DIVINE_CHARGE_ITEM_ID = 41073;
 const WOODCUTTING_CATEGORY_INDEX = 36;
-const defaultItemsInTable = [ //harde coded values referenced from (https://runescape.fandom.com/wiki/Calculator:Disassembly_by_category/logs)
+const defaultItemsInTable = [ //hard coded values referenced from (https://runescape.fandom.com/wiki/Calculator:Disassembly_by_category/logs)
     { name: 'maple logs',   id: 1517, chanceForJunk: 41.9}, 
     { name: 'yew logs',     id: 1515, chanceForJunk: 28.2}, 
     { name: 'willow logs',  id: 1519, chanceForJunk: 55.6}, 
